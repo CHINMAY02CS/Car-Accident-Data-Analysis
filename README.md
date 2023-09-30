@@ -4,6 +4,8 @@
 
 **Data Visualization:** Microsoft Excel has been used to create a dashboard that provides real-time data visualization. This dashboard is designed to facilitate easy access to critical insights from the dataset.
 
+![Dashboard](https://github.com/CHINMAY02CS/Car-Accident-Data-Analysis/blob/main/Screenshot%202023-09-26%20164410.png)
+
 **Key Displayed Metrics:** The dashboard prominently displays several key performance indicators (KPIs) that help in better understanding and analyzing the car accident data. These KPIs may include:
 
 * Percentage of safe driving vehicles
